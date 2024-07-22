@@ -9,7 +9,6 @@ updates:
       - "ingridTPires"
     commit-message:
       prefix: "chore"
-      include: "scope"
     target-branch: "main"
     allow:
       - dependency-name: "Z.EntityFramework.Extensions"
