@@ -10,7 +10,7 @@
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="NuGetPackage" Version="1.0.0" />
-    <PackageReference Include="Z.EntityFramework.Extensions" Version="8.102.2.5" />
+    <PackageReference Include="Z.EntityFramework.Extensions" Version="8.103.3" />
   </ItemGroup>
 
 </Project>
