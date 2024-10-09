@@ -1,14 +1,14 @@
-version: 2
-updates:
-  - package-ecosystem: "nuget"
-    directory: "/Main/Dependabot/"
-    schedule:
-      interval: "daily"
-    open-pull-requests-limit: 1
-    reviewers: 
-      - "ingridTPires"
-    commit-message:
-      prefix: "chore"
-    target-branch: "main"
-    allow:
-      - dependency-name: "Z.EntityFramework.Extensions"
+#version: 2
+#updates:
+#  - package-ecosystem: "nuget"
+#    directory: "/Main/Dependabot/"
+#    schedule:
+#      interval: "daily"
+#    open-pull-requests-limit: 1
+#    reviewers: 
+#      - "ingridTPires"
+#    commit-message:
+#      prefix: "chore"
+#    target-branch: "main"
+#    allow:
+#      - dependency-name: "Z.EntityFramework.Extensions"
